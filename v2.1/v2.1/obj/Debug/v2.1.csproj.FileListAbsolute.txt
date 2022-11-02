@@ -1,0 +1,11 @@
+C:\Users\badgr\Desktop\v2.1\v2.1\bin\Debug\v2.1.exe.config
+C:\Users\badgr\Desktop\v2.1\v2.1\bin\Debug\v2.1.exe
+C:\Users\badgr\Desktop\v2.1\v2.1\bin\Debug\v2.1.pdb
+C:\Users\badgr\Desktop\v2.1\v2.1\obj\Debug\v2.1.csproj.AssemblyReference.cache
+C:\Users\badgr\Desktop\v2.1\v2.1\obj\Debug\v2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\badgr\Desktop\v2.1\v2.1\obj\Debug\v2._1.Form1.resources
+C:\Users\badgr\Desktop\v2.1\v2.1\obj\Debug\v2._1.Properties.Resources.resources
+C:\Users\badgr\Desktop\v2.1\v2.1\obj\Debug\v2.1.csproj.GenerateResource.cache
+C:\Users\badgr\Desktop\v2.1\v2.1\obj\Debug\v2.1.csproj.CoreCompileInputs.cache
+C:\Users\badgr\Desktop\v2.1\v2.1\obj\Debug\v2.1.exe
+C:\Users\badgr\Desktop\v2.1\v2.1\obj\Debug\v2.1.pdb
